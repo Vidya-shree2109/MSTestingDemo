@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMaker", "CoffeeMaker.csproj", "{CC6BD89C-F95E-45AF-B987-2FA6348AA067}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarBucksTest", "..\StarBucksTest\StarBucksTest.csproj", "{A8D17203-4945-49E8-B9A6-0A61CDA0F0CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC6BD89C-F95E-45AF-B987-2FA6348AA067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6BD89C-F95E-45AF-B987-2FA6348AA067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6BD89C-F95E-45AF-B987-2FA6348AA067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D17203-4945-49E8-B9A6-0A61CDA0F0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D17203-4945-49E8-B9A6-0A61CDA0F0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D17203-4945-49E8-B9A6-0A61CDA0F0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D17203-4945-49E8-B9A6-0A61CDA0F0CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
